@@ -2,19 +2,12 @@
     "retry": 5,
     "domains": [
         {
-            "domain": "",
+            "domain": "https://cloud.faster.buzz/",
             "param": {
-                "email": "",
-                "passwd": ""
-            }
-        },
-        {
-            "domain": "",
-            "param": {
-                "email": "",
-                "passwd": "",
-                "login": "/auth/login",
-                "checkin": "/user/checkin"
+                "email": "fq@sharklasers.com",
+                "passwd": "123456",
+                "login": "/api_mweb/login",
+                "checkin": "/api_mweb/user/checkin"
             }
         }
     ]
